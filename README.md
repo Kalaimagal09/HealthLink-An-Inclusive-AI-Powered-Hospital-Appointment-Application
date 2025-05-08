@@ -1,9 +1,8 @@
-# Hospital Appointment Booking App
+# HealthLink: An Inclusive AI Powered Hospital Appointment App
 
 
 ## Project Description 📝
 
-👋 Welcome to the Full Stack React Native App. <br/>
 In this project, I have build a hospital appointment booking app using React Native, Expo, Strapi, and Clerk. created a user-friendly and intuitive application from scratch.
 
 
